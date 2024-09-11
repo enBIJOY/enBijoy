@@ -38,6 +38,5 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohammadbijoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadbijoy/)](https://www.linkedin.com/in/mohammadbijoy/)
-[![Twitter Badge](https://img.shields.io/badge/-@Mofizul Islam-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MohammadBijoy15)](https://twitter.com/MohammadBijoy15) 
-[![Hackerrank Badge](https://img.shields.io/badge/-@enBijoy-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.hackerrank.com/enbijoy)](https://www.hackerrank.com/enbijoy)
+[![Hackerrank Badge](https://img.shields.io/badge/-@enBijoy-3b5998?style=flat-square&labelColor=3b5998&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/enbijoy)](https://www.hackerrank.com/enbijoy)
 [![Linkedin Badge](https://img.shields.io/badge/-MofizulDev-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=[https://sivram.tech/](https://www.linkedin.com/in/mohammadbijoy/))]([https://sivram.tech/](https://www.linkedin.com/in/mohammadbijoy/))
