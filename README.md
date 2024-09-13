@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Mofizul Islam Bijoy, Software Developer Inter :computer:  || To know each other lets connect with Linkedin ⬇️ <br>
+  <br> I'm Mofizul Islam Bijoy, Software Developer Intern :computer:  || To know each other lets connect with Linkedin ⬇️ <br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -33,4 +33,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohammadbijoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadbijoy/)](https://www.linkedin.com/in/mohammadbijoy/)
 [![Hackerrank Badge](https://img.shields.io/badge/-@enBijoy-3b5998?style=flat-square&labelColor=3b5998&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/enbijoy)](https://www.hackerrank.com/enbijoy)
-[![Linkedin Badge](https://img.shields.io/badge/-MofizulDev-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=[https://sivram.tech/](https://www.linkedin.com/in/mohammadbijoy/))]([https://sivram.tech/](https://www.linkedin.com/in/mohammadbijoy/))
+[![Leetcode Badge](https://img.shields.io/badge/-MofizulDev-blueviolet?style=flat-square&logo=leetcode&logoColor=white&link=[https://leetcode.com/](https://leetcode.com/u/enBijoy/))]([https://leetcode.com/](https://leetcode.com/u/enBijoy/))
