@@ -8,15 +8,15 @@
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.java.com/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> </a>
-    <a href="https://hibernate.org/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" style="margin-right: 20px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 20px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://www.java.com/" target="_blank" style="margin-right: 20px;"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" style="margin-right: 20px;"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" style="margin-right: 20px;"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> </a>
+    <a href="https://hibernate.org/" target="_blank" style="margin-right: 20px;"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank" style="margin-right: 20px;"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank" style="margin-right: 20px;"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
