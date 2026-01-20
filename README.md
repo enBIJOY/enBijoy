@@ -48,7 +48,7 @@
 - :man_technologist: Newbee
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: Not Yet - Hopefully
-- :zap: Fun fact: I am Scared and run away from Programming but now, i am loving to takeover my fear<br>
+- :zap: Fun fact: I used to be afraid of programming and run away from programming. But now, I love writing code, trying to takeover that fear.<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
