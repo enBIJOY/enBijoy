@@ -20,22 +20,22 @@
 <p>
   <a href="https://www.w3.org/html/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://laravel.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" />
   </a>
