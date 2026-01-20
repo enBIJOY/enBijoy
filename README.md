@@ -52,6 +52,9 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-enbijoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mofizuldev/)](https://www.linkedin.com/in/mofizuldev/)
-[![Hackerrank Badge](https://img.shields.io/badge/-enBijoy-3b5998?style=flat-square&labelColor=3b5998&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/enbijoy)](https://www.hackerrank.com/enbijoy)
-[![LeetCode Badge](https://img.shields.io/badge/-enBijoy-3b5998?style=flat-square&labelColor=3b5998&logo=LeetCode&logoColor=white&link=https://www.leetcode.com/u/enBijoy/)](https://www.leetcode.com/u/enBijoy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enbijoy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mofizuldev/)
+&nbsp;&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-enBijoy-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/enbijoy)
+&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-enBijoy-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/u/enBijoy/)
+
